@@ -1,6 +1,6 @@
 ﻿namespace PixelCombats.Api.RoomServer
 {
-	/// <summary>
+	/// <summary> ты лох
 	/// типы контекстов в комнате
 	/// </summary>
 	public enum ContextTypes
