@@ -3,7 +3,7 @@
 	/// <summary>
 	/// сервис версии игрового клиента
 	/// </summary>
-	public interface IClientVersionService
+	public interfac IClientVersionService
 	{
 		/// <summary>
 		/// текущая версия клиента игры
